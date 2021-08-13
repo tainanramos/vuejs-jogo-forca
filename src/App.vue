@@ -66,7 +66,6 @@ export default {
         "Transeunte",
         "Trilogia",
         "Xícara",
-        "Tua Mãe",
       ];
       this.life = 3
       this.gameOver = false
